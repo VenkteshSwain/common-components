@@ -1,0 +1,56 @@
+[
+  {
+    "sortCode": "11-22-33",
+
+    "accountNumber": "123456789",
+
+    "accountType": "Savings Account",
+
+    "accountName": "GS Kumar"
+  },
+  {
+    "sortCode": "12-22-33",
+
+    "accountNumber": "123456780",
+
+    "accountType": "Current Account",
+
+    "accountName": "Anuj Kumar"
+  },
+  {
+    "sortCode": "13-22-35",
+
+    "accountNumber": "123456760",
+
+    "accountType": "Current Account",
+
+    "accountName": "Kshirod Kumar Swain"
+  },
+  {
+    "sortCode": "14-23-36",
+
+    "accountNumber": "143256760",
+
+    "accountType": "Savings Account",
+
+    "accountName": "Alaka Swain"
+  },
+  {
+    "sortCode": "15-24-35",
+
+    "accountNumber": "154456760",
+
+    "accountType": "Savings Account",
+
+    "accountName": "Venktesh Swain"
+  },
+  {
+    "sortCode": "19-20-35",
+
+    "accountNumber": "986156760",
+
+    "accountType": "Savings Account",
+
+    "accountName": "Debi Prasad Das"
+  }
+]
